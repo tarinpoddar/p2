@@ -1,0 +1,87 @@
+#textbox
+{
+	width: 40px;
+	height: 30px;
+}
+
+#banner
+{
+	margin-left: 310px;
+}
+
+form
+{
+	text-align: center;
+}
+
+.cbox
+{
+	width: 18px;
+	height: 18px;
+}
+
+.radiosize
+{
+	height: 18px;
+	width: 18px;
+}
+
+#dropdown
+{
+	width: 115px;
+	height: 30px;
+	margin: 10px;
+	margin-left: 505px;
+}
+
+.allign
+{
+	margin: 10px;
+}
+
+#position
+{
+	margin: 5px;
+}
+
+
+
+
+#answer-text
+{
+	font-size: 24px;
+	text-align: center;
+	font-size:3rem;
+	color:#AC3059;
+	background-color:#E0E0EB;
+	padding:15px;
+	font-weight:800;
+	display:inline-block;
+	margin: 10px;
+	margin-bottom:10px;
+	font-family: ‘Lucida Console’, Monaco, monospace;			
+}
+
+.container 
+{
+	text-align: center;
+}
+
+
+.comic 
+{
+	width:75%;
+	max-width:500px;
+}
+
+.bottom
+{
+	margin-top: 35px;
+}
+
+.texxt
+{
+	font-size: 15px;
+	font-family: "Big Caslon", "Book Antiqua", "Palatino Linotype", Georgia, serif;
+	color: black;
+}
